@@ -1,1 +1,1 @@
-! [image](image/290072.jpg)
+![image](image/290072.jpg)
